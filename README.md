@@ -1,3 +1,22 @@
+
+# Used-Car-Sales-Using-My SQL
+## My SQL Data Analysis Project - Used Car Sales
+
+In this data analysis project, I leveraged MySQL to conduct a comprehensive analysis of Used car sales data, focusing on sales and availability. By applying advanced My SQL queries and calculations, I extracted valuable insights to assist managers in making data-driven decisions to improve workforce management and sales strategies.
+
+Key Highlights:
+- The Total Car Count is 7927.
+- There will be total 6 cars availble in 2023.
+- In 2020 "7" Car available, 2021 "7" Cars available, 2022 "74" Cars available.
+- In Diesel category there are 20 cars available.
+- In petrol category there are 51 cars available.
+- There are 4124 no of cars available between 2015-2023.
+
+**Moreover, I presented the data insights in a clear and organized manner, allowing sales professionals to identify critical areas for improvement and implement targeted strategies. The project showcases my proficiency in My SQL data analysis and my ability to provide actionable recommendations to address car sales effectively.**
+
+**Through this Used car sales project, I have demonstrated my data analysis skills, empowering organizations with data-backed insights to enhance sales, ultimately contributing to the success of the sales team and the overall growth of the company.**
+
+
 ### 1) Read cars data.
 ````sql
 Select 
